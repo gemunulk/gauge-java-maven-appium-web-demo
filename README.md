@@ -38,7 +38,7 @@ Using the "APP_ENDPOINT" /env/default/default.properties
 
 ### Set up
 This project requires maven to install dependencies. To install dependencies re-import maven dependencies using IntelliJ IDEA.
-Modify /env/default/appium.properties
+Modify /env/default/appium.properties to set DesiredCapabilities.
 
 ### All specs
 ````
